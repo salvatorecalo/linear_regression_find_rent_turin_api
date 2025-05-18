@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+shapely
+scikit-learn
+pandas
+numpy
